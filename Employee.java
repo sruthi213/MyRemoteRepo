@@ -5,3 +5,4 @@ class Employee
 	int salary;
 }
 Void print()
+void result()
