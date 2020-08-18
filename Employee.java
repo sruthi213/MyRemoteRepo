@@ -6,3 +6,5 @@ class Employee
 }
 Void print()
 void result()
+void display()
+Void print()
