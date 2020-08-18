@@ -4,3 +4,4 @@ class Employee
 	String Employeename;
 	int salary;
 }
+Void print()
